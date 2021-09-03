@@ -46,6 +46,17 @@
 }
  /* End Section4*/
 
+#registration .back-sea
+{
+    background-image: url(../img/bg.jpg);
+    background-size: 100% 100%;
+    height: 300px;
+}
+#registration .back-sea .cont-reg
+{
+    margin-top: 80px;
+}
+
 
 
 
